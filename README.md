@@ -1,3 +1,12 @@
 # eventhub-prod-cons-py
 
-this is my test2
+Install pipenv
+
+``` pip install pipenv ```
+
+Select Python 3.9
+
+``` pipenv --python 3.9 ```
+
+
+
